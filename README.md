@@ -23,15 +23,11 @@ cd KeycloakApp
 ## Configure the Spring Boot Application:
 
 - Open the project in IntelliJ IDEA (or your preferred IDE).
-- Update the `application.properties` file with your Keycloak configuration, ensuring the `keycloak.resource` and `keycloak.realm` match the settings you created in Keycloak.
+- Update the `application.properties` file with your Keycloak configuration.
 
 ## Run the Application:
 
-- Use the following command to start the Spring Boot application:
-
-    ```bash
-    ./mvnw spring-boot:run
-    ```
+run the application from the IDE you use.
 
 - The application will run on [http://localhost:8081](http://localhost:8081).
 
