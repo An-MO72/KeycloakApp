@@ -16,9 +16,9 @@ cd KeycloakApp
 ```
 ## Set Up Keycloak:
 
-- Ensure you have a Keycloak server running. You can use the Docker command provided in the project setup to start Keycloak.
+- Ensure you have a Keycloak server running. You can use the Docker command provided in the project setup [guide](https://medium.com/@Mo72/keycloak-integration-with-spring-boot-11c7ed448ffd) .
 - Access the Keycloak admin console at [http://localhost:8080/auth](http://localhost:8080/auth) and log in with your admin credentials.
-- Create a realm and configure clients and roles as specified in the project documentation.
+- Create a realm and configure clients and roles as specified in the project guide.
 
 ## Configure the Spring Boot Application:
 
